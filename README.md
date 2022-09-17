@@ -18,4 +18,5 @@ Project is created with:
 * JUnit version: 5.6.0
 	
 ## Run Config
-
+Launch File: Tamaclonechi.java
+No arguments needed.
