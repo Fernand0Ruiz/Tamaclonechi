@@ -10,6 +10,10 @@ This project is a a virtual pet graphical user interface inspired by the brand T
 It utilizes Git, Java, graphics, threading, I/O streams, and MVC architecture to create an 
 animated artificial human companion that is interactable.
 
+Other Collaborators:
+* David Izmailov
+* Austin Connick
+
 ## Technologies
 Project is created with:
 * Eclipse IDE 2019-12 (http://www.eclipse.org/downloads/)
