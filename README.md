@@ -11,8 +11,8 @@ It utilizes Git, Java, graphics, threading, I/O streams, and MVC architecture to
 animated artificial human companion that is interactable.
 
 Other Collaborators:
-* David Izmailov
-* Austin Connick
+* David Izmailov (@dizmailov)
+* Austin Connick (@Ajconnick)
 
 ## Technologies
 Project is created with:
